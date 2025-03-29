@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**calistasalsabila/calistasalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently a student learning programming and technology. 
 
-Here are some ideas to get you started:
+## 🌱 Learning Journey
+- Exploring different programming languages
+- Improving problem-solving skills
+- Learning step by step at my own pace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Keep growing and improving in tech
+- Stay curious and open to new knowledge
+
+Let's learn and grow together! 😊
