@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm currently a student learning programming and t
 
 ## 🌱 Learning Journey
 - Exploring different programming languages
-- Improving problem-solving skills
+- Improving problem-solving skills (soalnya masih remed bet woelah)
 - Learning step by step at my own pace
 
 ## 🎯 Goals
