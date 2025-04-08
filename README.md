@@ -11,4 +11,3 @@ Welcome to my GitHub profile! I'm currently a student learning programming and t
 - Keep growing and improving in tech
 - Stay curious and open to new knowledge
 
-Let's learn and grow together! 😊
